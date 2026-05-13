@@ -22,7 +22,7 @@ This repo holds forensic investigation reports I completed during CIT-420: Digit
 ![Volatility](https://img.shields.io/badge/Volatility-grey)
 ![HxD](https://img.shields.io/badge/HxD-grey)
 ![SleuthKit](https://img.shields.io/badge/SleuthKit-grey)
-![Linux](https://img.shields.io/badge/Linux-Debian-FCC624?logo=linux&logoColor=black)
+![Debian](https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=white)
 
 ## Notes
 

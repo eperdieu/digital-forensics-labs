@@ -17,9 +17,11 @@ This repo holds forensic investigation reports I completed during CIT-420: Digit
 
 ## Tools & Skills
 
-![Autopsy](https://img.shields.io/badge/Autopsy-4.22.1-blue)
-![Wireshark](https://img.shields.io/badge/Wireshark-4.6.3-1679A7?logo=wireshark&logoColor=white)
-![Volatility](https://img.shields.io/badge/Volatility-Forensics-darkgreen)
+![Autopsy](https://img.shields.io/badge/Autopsy-grey)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?logo=wireshark&logoColor=white)
+![Volatility](https://img.shields.io/badge/Volatility-grey)
+![HxD](https://img.shields.io/badge/HxD-grey)
+![SleuthKit](https://img.shields.io/badge/SleuthKit-grey)
 ![Linux](https://img.shields.io/badge/Linux-Debian-FCC624?logo=linux&logoColor=black)
 
 ## Notes

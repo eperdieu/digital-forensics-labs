@@ -15,7 +15,7 @@ This repo holds forensic investigation reports I completed during CIT-420: Digit
 | 2012 National Gallery DC Attack | .eml keylogger logs | Autopsy |
 | Homey Pro IoT Investigation | E01 disk image | Autopsy |
 
-## Tools & Skills
+## Tools
 
 ![Autopsy](https://img.shields.io/badge/Autopsy-grey)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?logo=wireshark&logoColor=white)

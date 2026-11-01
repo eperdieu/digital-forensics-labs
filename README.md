@@ -35,9 +35,6 @@ This repo holds forensic investigation reports I completed during CIT 420: Digit
 | 2012 National Gallery DC Attack | EML keylogger logs | Autopsy |
 | Homey Pro IoT Investigation | E01 disk image | Autopsy |
 
-## Tools
-
-<img src="assets/forensics_tools.png" alt="Tools: Autopsy, SleuthKit, HxD, Volatility, Wireshark, Debian" width="100%">
 
 ---
 

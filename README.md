@@ -6,7 +6,7 @@
 
 ## Tools
 
-<img src="assets/digital_forensics.png" alt="Tools: Autopsy, SleuthKit, HxD, Volatility, Wireshark, Debian" width="100%">
+<img src="assets/digital_forensics_tools.png" alt="Tools: Autopsy, SleuthKit, HxD, Volatility, Wireshark, Debian" width="100%">
 
 CIT 420: Digital Forensics · Purdue University Indianapolis
 

@@ -1,29 +1,44 @@
-# digital-forensics-labs
+<div align="center">
 
-This repo holds forensic investigation reports I completed during CIT-420: Digital Forensics at Purdue University Indianapolis. Each case walks through the full process from verifying evidence integrity all the way to building a timeline and drawing conclusions. I worked with tools like Wireshark, Autopsy, Volatility, and HxD across cases sourced from Digital Corpora, NIST, and other public forensic datasets.
+# Digital Forensics Labs
+
+**Eight investigations across disk, memory, and network evidence**
+
+## Tools
+
+<img src="assets/forensics_tools.png" alt="Tools: Autopsy, SleuthKit, HxD, Volatility, Wireshark, Debian" width="100%">
+
+CIT 420: Digital Forensics · Purdue University Indianapolis
+
+</div>
+
+---
+
+This repo holds forensic investigation reports I completed during CIT 420: Digital Forensics at Purdue University Indianapolis. Each case walks through the full process, from verifying evidence integrity to building a timeline and drawing conclusions. I worked with tools like Wireshark, Autopsy, Volatility, and HxD across cases sourced from Digital Corpora, NIST, and other public forensic datasets.
+
+## At a glance
+
+| 8 cases | 3 evidence types | 5 forensic tools |
+|:---:|:---:|:---:|
+| Training and real world scenarios | Disk, memory, network | Autopsy, SleuthKit, Wireshark, Volatility, HxD |
 
 ## Cases
 
 | Case | Evidence Type | Tools Used |
-|------|--------------|------------|
+|------|---------------|------------|
 | Data Carving | DD disk image | HxD |
-| Windows Registry, MFT & Shadow Copy Analysis | DD/E01 disk image | Autopsy, SleuthKit |
-| Windows Memory Forensics & Timeline Construction | Memory dump | Volatility |
+| Windows Registry, MFT and Shadow Copy Analysis | DD and E01 disk image | Autopsy, SleuthKit |
+| Windows Memory Forensics and Timeline Construction | Memory dump | Volatility |
 | 2021 Timeline Investigation (MP3 Distribution) | Disk image | Autopsy |
 | 2008 Nitroba University Email Harassment | PCAP | Wireshark |
 | 2008 M57 Patents (Jean Jones Social Engineering) | E01 disk image | Autopsy |
-| 2012 National Gallery DC Attack | .eml keylogger logs | Autopsy |
+| 2012 National Gallery DC Attack | EML keylogger logs | Autopsy |
 | Homey Pro IoT Investigation | E01 disk image | Autopsy |
 
 ## Tools
 
-![Autopsy](https://img.shields.io/badge/Autopsy-grey)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?logo=wireshark&logoColor=white)
-![Volatility](https://img.shields.io/badge/Volatility-grey)
-![HxD](https://img.shields.io/badge/HxD-grey)
-![SleuthKit](https://img.shields.io/badge/SleuthKit-grey)
-![Debian](https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=white)
+<img src="assets/forensics_tools.png" alt="Tools: Autopsy, SleuthKit, HxD, Volatility, Wireshark, Debian" width="100%">
 
-## Notes
+---
 
-All cases use publicly available forensic datasets for educational purposes.
+<sub>All cases use publicly available forensic datasets for educational purposes.</sub>
